@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9703af3d-d26b-4ca5-a7ff-d32afd5bd4f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gmd26ofBEMJ9wfu60KKf1z1khG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.file_read_write">
+    <configuration name="count_items" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_projt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/count_items.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_read_write" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_projt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_read_write.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_projt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mypyfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_projt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mypyfile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.file_read_write" />
+        <item itemvalue="Python.count_items" />
+        <item itemvalue="Python.mypyfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9703af3d-d26b-4ca5-a7ff-d32afd5bd4f8" name="Default Changelist" comment="" />
+      <created>1598723491629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598723491629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1132" height="188" key="GridCell.Tab.0.bottom" timestamp="1604979401075">
+      <screen x="0" y="28" width="1366" height="702" />
+    </state>
+    <state width="1319" height="253" key="GridCell.Tab.0.bottom/0.0.1366.744@0.0.1366.744" timestamp="1600239911073" />
+    <state width="1132" height="188" key="GridCell.Tab.0.bottom/0.28.1366.702@0.28.1366.702" timestamp="1604979401075" />
+    <state width="1132" height="188" key="GridCell.Tab.0.center" timestamp="1604979401075">
+      <screen x="0" y="28" width="1366" height="702" />
+    </state>
+    <state width="1319" height="253" key="GridCell.Tab.0.center/0.0.1366.744@0.0.1366.744" timestamp="1600239911072" />
+    <state width="1132" height="188" key="GridCell.Tab.0.center/0.28.1366.702@0.28.1366.702" timestamp="1604979401075" />
+    <state width="1132" height="188" key="GridCell.Tab.0.left" timestamp="1604979401075">
+      <screen x="0" y="28" width="1366" height="702" />
+    </state>
+    <state width="1319" height="253" key="GridCell.Tab.0.left/0.0.1366.744@0.0.1366.744" timestamp="1600239911071" />
+    <state width="1132" height="188" key="GridCell.Tab.0.left/0.28.1366.702@0.28.1366.702" timestamp="1604979401075" />
+    <state width="1132" height="188" key="GridCell.Tab.0.right" timestamp="1604979401075">
+      <screen x="0" y="28" width="1366" height="702" />
+    </state>
+    <state width="1319" height="253" key="GridCell.Tab.0.right/0.0.1366.744@0.0.1366.744" timestamp="1600239911072" />
+    <state width="1132" height="188" key="GridCell.Tab.0.right/0.28.1366.702@0.28.1366.702" timestamp="1604979401075" />
+    <state x="157" y="28" width="1042" height="702" key="SettingsEditor" timestamp="1604973397519">
+      <screen x="0" y="28" width="1366" height="702" />
+    </state>
+    <state x="157" y="28" width="1042" height="702" key="SettingsEditor/0.28.1366.702@0.28.1366.702" timestamp="1604973397519" />
+    <state x="357" y="65" key="search.everywhere.popup" timestamp="1600346958288">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="357" y="65" key="search.everywhere.popup/0.0.1366.744@0.0.1366.744" timestamp="1600346958288" />
+  </component>
+</project>

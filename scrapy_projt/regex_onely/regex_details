@@ -1,0 +1,13 @@
+\s also matches line breaks
+
+^[ \t\n]*$ to match an empty string
+
+?, ?? - 0 or 1 occurences (?? is lazy, ? is greedy)
+*, *? - any number of occurences
++, +? - at least one occurence
+{n} - exactly n occurences
+{n,m} - n to m occurences, inclusive
+{n,m}? - n to m occurences, lazy
+{n,}, {n,}? - at least n occurence
+
+(?!Andrea).{6} == [A-Za-z]{6}

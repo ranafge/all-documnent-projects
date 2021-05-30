@@ -1,0 +1,82 @@
+normalize-space(//*[@id="leftColumn"]/div[1]/h1/text())
+
+/a/b/*[self::c or self::d or self::e]
+
+//*[text()='Company']/following::*/*/text()
+
+I. Use this single XPath expression:
+//div[normalize-space() = 'I need this text']
+translate(normalize-space(/tr/td/a), ' ', '')
+
+//div[. = 'I need this text']
+
+Explanation:
+
+2.normalize-space() produces a new string from its argument, in which any leading or trailing white-space (space, tab, NL or CR characters) is deleted and any intermediary white-space is replaced by a single space character.
+
+3.translate() takes the result produced by normalize-space() and produces a new string in which each of the remaining intermediary spaces is replaced by the empty string.
+
+xpath('//tr[@class="even  expanded first"]/td/a[normalize-space() = "16 : 00"]//text()').extract_first()
+
+
+/node/text()[someInteger]
+This selects the someInteger-th text-node child of the top element (named "node") of the XML document. It is equivalent to the following XPath expression:
+/node/text()[position() = someInteger]
+
+
+*****
+//span[. = 'Office Hours']
+Says:
+Select the span elements whose string value is equal to 'Office Hours`.
+*****
+
+
+.xpath("//*[@id='three']//font[starts-with(normalize-space(text()), '$')]"
+xpath('//tr/td[@class="name"]/following-sibling::td//text()'
+
+. is your current element
+
+
+Summary: contains() means contains a substring, not contains a node.
+
+not() is a function in xpath (as opposed to an operator)
+
+You're looking on the // axis which means 'any descendant node of the document root',
+
+last() function
+
+.//input will match all inside current context.
+
+next_page = response.xpath('//a[contains(., "- Next>>")]/@href').get()
+
+game.css("td[class^=deckdbbody].search_results_7 a::text").get()
+response.css("tr[class^=deckdbbody]").xpath(".//a[contains(@href, 'cardconditions')]/text()").extract()
+
+response.css('span[style^="color:red;"]::text').get()
+
+//li in two seperate words
+for li in response.xpath('//ul[@class="bird-forms"]/li'):
+    bird = li.xpath('string(.)').get()
+
+for item in response.xpath('//ul/li'):
+    print(item.xpath('string(.)').get())
+
+.//td[position()=2][1]
+Select td at second position (position()=2) that is at the first ([1])position at the same time?
+
+/table//tr[position() > 2]
+
+
+for item in response.xpath('//ul/li[position() > 2 and position() <las
+    ...: t()]'):
+    ...:     print(item.xpath('string(.)').get())
+
+
+mostTag.xpath('string(//div[@class="sample"])').extract_first()
+
+next_page
+response.xpath("//li[@class='next']/a[contains(@href, 'http')]/@href").get()
+next_page = response.xpath("//li[@class='next']/a[contains(@href, 'http')]/@href").get()
+
+
+//bdi[not(parent::del)]/text()

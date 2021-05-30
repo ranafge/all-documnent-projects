@@ -1,0 +1,8 @@
+1611595237901	geckodriver	INFO	Listening on 127.0.0.1:52909
+1611595238832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5YNSnA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611595257601	Marionette	INFO	Listening on port 34565
+1611595257812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.petshop.co.uk/shop/extensions/shopping_4.js?t=1609611016911, line 13283: unreachable code after return statement
+JavaScript warning: https://www.petshop.co.uk/shop/extensions/shopping_4.js?t=1609611016911, line 13283: unreachable code after return statement
+1611595272069	Marionette	INFO	Stopped listening on port 34565

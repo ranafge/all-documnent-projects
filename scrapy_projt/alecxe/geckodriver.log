@@ -1,0 +1,61 @@
+1615274698548	geckodriver	INFO	Listening on 127.0.0.1:42025
+1615274699476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesN66VS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615274718061	Marionette	INFO	Listening on port 32935
+1615274718426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://pay.google.com/gp/w/home/signup&followup=https://pay.google.com/gp/w/home/signup line 1 > eval line 2560 > eval line 1 > eval, line 1: TypeError: 'accelerometer' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://pay.google.com/gp/w/home/signup&followup=https://pay.google.com/gp/w/home/signup line 1 > eval line 2560 > eval line 1 > eval, line 1: TypeError: 'background-fetch' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://pay.google.com/gp/w/home/signup&followup=https://pay.google.com/gp/w/home/signup line 1 > eval line 2560 > eval line 1 > eval, line 1: TypeError: 'microphone' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+1615274773386	geckodriver	INFO	Listening on 127.0.0.1:55871
+1615274774391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAr5zei"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615274782280	Marionette	INFO	Listening on port 46587
+1615274782363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://pay.google.com/gp/w/home/signup&followup=https://pay.google.com/gp/w/home/signup line 1 > eval line 6292 > eval line 1 > eval, line 1: TypeError: 'accelerometer' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://pay.google.com/gp/w/home/signup&followup=https://pay.google.com/gp/w/home/signup line 1 > eval line 6292 > eval line 1 > eval, line 1: TypeError: 'background-fetch' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://pay.google.com/gp/w/home/signup&followup=https://pay.google.com/gp/w/home/signup line 1 > eval line 6292 > eval line 1 > eval, line 1: TypeError: 'microphone' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://pay.google.com/gp/w/home/signup&followup=https://pay.google.com/gp/w/home/signup line 1 > eval line 3848 > eval line 1 > eval, line 1: TypeError: 'accelerometer' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://pay.google.com/gp/w/home/signup&followup=https://pay.google.com/gp/w/home/signup line 1 > eval line 3848 > eval line 1 > eval, line 1: TypeError: 'background-fetch' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+JavaScript error: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://pay.google.com/gp/w/home/signup&followup=https://pay.google.com/gp/w/home/signup line 1 > eval line 3848 > eval line 1 > eval, line 1: TypeError: 'microphone' (value of 'name' member of PermissionDescriptor) is not a valid value for enumeration PermissionName.
+1615274801243	Marionette	INFO	Stopped listening on port 46587
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1615274805874	Marionette	INFO	Stopped listening on port 32935

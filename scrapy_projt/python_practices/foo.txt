@@ -1,0 +1,6 @@
+"hello"
+"bye"
+"good morning"
+"good evening"
+"'yes"
+"''no'"
