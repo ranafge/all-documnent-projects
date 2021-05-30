@@ -1,0 +1,30 @@
+scrapy shell -L INFO https://example.com
+
+import logging
+
+logging.getLogger().setLevel(logging.WARNING);
+
+
+text ="""<aaa id="11" >
+    <aaa id="21" >
+        <aaa id="31" ></aaa>
+        <bbb id="32" >
+            <aaa id="41" ></aaa>
+            <bbb id="42" ></bbb>
+            <ccc id="43" ></ccc>
+            <ddd id="44" >qwerty</ddd>
+            <ddd id="45" ></ddd>
+            <ddd id="46" ></ddd>
+        </bbb>
+    </aaa>
+    <bbb id="22" >
+         <aaa id="33" >qwerty</aaa>
+         <bbb id="34" ></bbb>
+         <ccc id="35" ></ccc>
+         <ddd id="36" ></ddd>
+         <ddd id="37" ></ddd>
+         <ddd id="38" ></ddd>
+    </bbb>
+    <ccc id="23" >qwerty</ccc>
+    <ccc id="24" ></ccc>
+ </aaa>"""

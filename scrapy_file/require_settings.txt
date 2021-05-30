@@ -1,0 +1,17 @@
+import logging
+logging.getLogger().setLevel(logging.WARNING)
+
+import scrapy
+from scrapy.spiders import CrawlSpider
+from scrapy import Selector
+from scrapy.loader import ItemLoader
+from scrapy.spiders import Rule
+from scrapy.linkextractors import LinkExtractor
+from sofifa_scraper.items import Player
+
+
+headers = {
+    "Referer": "https://www.senscritique.com/top/resultats/Les_meilleurs_films_de_2020/2582670",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36",
+    "X-Requested-With": "XMLHttpRequest",
+}

@@ -1,0 +1,4 @@
+valido;válido
+invalidos;inválidos
+avaliacao;avaliação
+nao e;não é
